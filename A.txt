@@ -1,1 +1,2 @@
 commit 2
+and then commit 3
